@@ -51,6 +51,7 @@ try:
         'microsoft': 'MSFT',
         'netflix': 'NFLX',
         'amazon': 'AMZN',
+        'tesla': 'TSLA'
     }
 
     df = get_data(days, tickers)
